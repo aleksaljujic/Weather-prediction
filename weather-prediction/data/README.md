@@ -1,0 +1,1 @@
+# This file contains documentation related to the dataset used for weather prediction, including details on data sources and formats.
